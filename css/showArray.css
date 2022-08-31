@@ -1,0 +1,25 @@
+.numbers-container{
+    display: flex;
+    
+    align-items: center;
+}
+.numbers{
+    display: flex;
+    gap: 24px;
+}
+
+h2{
+    min-width: 150px;
+    text-align: end;
+}
+
+.numbers-item{
+    display: flex;
+    background-color: crimson;
+    min-width: 75px;
+    height: 75px;
+    color: white;
+    font-size: 2rem;
+    display: grid;
+    place-content: center;
+}
