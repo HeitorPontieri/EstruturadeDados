@@ -47,7 +47,8 @@ showArray([valorTotal], 'main', 'Todos os números somados')
 // 1 - Aumentar 100 em cada elemento
 // 2 - Somente números pares
 // 3 - Total dos valores com desconto de 4
-// 
+// 4 - Adicionar 21 a todos os números impares
+
 
 // Exercicio 1
 const aumentar100 = (valor) => valor +100
